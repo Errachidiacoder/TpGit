@@ -1,0 +1,2 @@
+cmand 1
+cmand2
