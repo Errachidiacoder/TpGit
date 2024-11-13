@@ -1,2 +1,2 @@
 cmand 1
-cmand2
+cmand2 modif master
